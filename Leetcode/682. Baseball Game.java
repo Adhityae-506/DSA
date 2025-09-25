@@ -1,3 +1,4 @@
+package Leetcode;
 // You are given a list of strings operations, where operations[i] is the ith operation you must apply to the record and is one of the following:
 
 // An integer x.
