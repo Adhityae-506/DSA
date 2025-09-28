@@ -1,4 +1,4 @@
-// Example 1:
+// Example 1::
 
 // Input: s = "anagram", t = "nagaram"
 
@@ -36,4 +36,5 @@ class Solution {
         }
         return true;
     }
+
 }
