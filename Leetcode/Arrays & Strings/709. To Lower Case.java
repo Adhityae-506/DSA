@@ -1,4 +1,4 @@
-// Example 1: 
+// Example 1:
 
 // Input: s = "Hello"
 // Output: "hello"
@@ -18,4 +18,5 @@ class Solution {
     }
 
 }
+
 
