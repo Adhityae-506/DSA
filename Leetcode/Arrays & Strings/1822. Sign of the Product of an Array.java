@@ -1,4 +1,4 @@
-// Example 1:
+// Example 1
 
 // Input: nums = [-1,-2,-3,-4,3,2,1]
 // Output: 1
@@ -36,3 +36,4 @@ class Solution {
         
     }
 }
+
