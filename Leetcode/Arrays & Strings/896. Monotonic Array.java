@@ -1,4 +1,4 @@
-// Example 1:
+// Example 1
 
 // Input: nums = [1,2,2,3]
 // Output: true
@@ -25,4 +25,5 @@ class Solution {
         }
         return incresing || decresing;
     }
+
 }

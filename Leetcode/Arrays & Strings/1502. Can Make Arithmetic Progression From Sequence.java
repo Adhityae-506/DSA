@@ -1,6 +1,6 @@
 import java.util.*;
 
-// Example 1:
+// Example 1
 
 // Input: arr = [3,5,1]
 // Output: true
@@ -31,4 +31,5 @@ class Solution {
         return true;
 
     }
+
 }

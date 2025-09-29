@@ -6,7 +6,7 @@
 // Example 2:
 
 // Input: s = "", t = "y"
-// Output: "y"
+// Output: "y" .
 
 class Solution {
     public char findTheDifference(String s, String t) {
@@ -28,3 +28,4 @@ class Solution {
         return result;
     }
 }
+

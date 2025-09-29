@@ -1,4 +1,4 @@
-// Example 1:
+// Example 1::
 
 // Input: s = "abab"
 // Output: true
@@ -20,3 +20,4 @@ class Solution {
         return trimStr.contains(s);
     }
 }
+
