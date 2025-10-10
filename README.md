@@ -1,19 +1,9 @@
 # 🧠 DSA Repository  
 
-Welcome to my **Data Structures and Algorithms** practice repo — where I document my daily problem-solving journey across platforms like **LeetCode** and **GeeksforGeeks**.  
+Hey guys here is my **Data Structures and Algorithms** practice repo — where I document my daily problem-solving journey across platforms like **LeetCode** and **GeeksforGeeks**.  
 
 This isn’t just a repo of solutions — it’s a logbook of how I *think*, *debug*, and *improve* one question at a time.  
 From brute force to optimal, from confusion to clarity — every problem here tells a story of progress. 🚀  
-
----
-
-### 💡 What You'll Find Here
-
-- 🧩 **Structured folders** by platform and difficulty level  
-- 💬 **Readable explanations** for most problems  
-- ⚙️ **Optimized Java implementations**  
-- 📊 **Focus on time & space complexity**  
-- 🧠 **Patterns learned** after solving (Two Pointers, Recursion, Greedy, etc.)
 
 ---
 
@@ -35,29 +25,11 @@ From brute force to optimal, from confusion to clarity — every problem here te
 
 ---
 
-### 💬 How I Approach Problems
-
-> 1️⃣ Understand the logic before writing code  
-> 2️⃣ Start simple with brute force  
-> 3️⃣ Analyze time & space complexity  
-> 4️⃣ Optimize using better patterns or data structures  
-> 5️⃣ Document key learnings for future reference  
-
----
-
 ### 🧩 Profiles
 
 - 🟠 **LeetCode:** [Adhityae-506](https://leetcode.com/u/Adhityae-506/)  
 - 🟢 **GeeksforGeeks:** [Adhitya E](https://auth.geeksforgeeks.org/user/)  
  
-
----
-
-### 📈 Current Progress
-
-- 🔸 **Streak:** Day 26 / 50 Days LeetCode Challenge  
-- 🔹 **Topics Covered:** Arrays, Strings, Greedy, Stack, Bitwise Ops  
-- 🔸 **Next Focus:** Recursion & Sliding Window  
 
 ---
 
@@ -69,4 +41,3 @@ The goal is to stay consistent, grow stronger in logic, and prepare for future i
 ---
 
 ⭐ *If you find this helpful, drop a star — it keeps the motivation going!*  
-> “One problem a day keeps the panic away.” 😄
