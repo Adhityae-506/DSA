@@ -27,8 +27,8 @@ From brute force to optimal, from confusion to clarity — every problem here te
 
 ### 🧩 Profiles
 
-- 🟠 **LeetCode:** [Adhityae-506](https://leetcode.com/u/Adhityae-506/)  
-- 🟢 **GeeksforGeeks:** [Adhitya E](https://auth.geeksforgeeks.org/user/)  
+- **LeetCode:** [Adhityae-506](https://leetcode.com/u/Adhityae-506/)  
+- **GeeksforGeeks:** [Adhitya E](https://auth.geeksforgeeks.org/user/)  
  
 
 ---
