@@ -33,7 +33,7 @@ class Solution {
                 divisible.add(i);
             }
         }
-        for(int i = 1;i<=n;i++){
+        for(int i = 1;i <= n;i++){
             if(i%m!=0){
                 NonDivisible.add(i);
             }
