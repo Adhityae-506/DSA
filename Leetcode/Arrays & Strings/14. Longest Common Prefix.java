@@ -14,8 +14,7 @@ class Solution {
 
         String first = strs[0];
         String last = strs[strs.length - 1];
-        int minLength = Math.min(first.length(), 
-                                 	last.length());
+        int minLength = Math.min(first.length(), last.length());
         
       	int i = 0;
         while (i < minLength && first.charAt(i) == last.charAt(i)) {
