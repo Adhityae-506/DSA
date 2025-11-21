@@ -7,7 +7,7 @@
 
 // Input: num = "4206"
 // Output: ""
-// Explanation: There are no odd numbers in "4206".
+// Explanation: There are no odd numbers in "4206".//
 // Example 3:
 
 // Input: num = "35427"
