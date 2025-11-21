@@ -12,7 +12,7 @@
 
 // Input: num = "35427"
 // Output: "35427"
-// Explanation: "35427" is already an odd number.
+// Explanation: "35427" is already an odd number...
 
 class Solution {
     public String largestOddNumber(String num) {
