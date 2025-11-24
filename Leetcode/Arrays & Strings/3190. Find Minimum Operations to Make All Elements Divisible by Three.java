@@ -9,7 +9,7 @@
 // All array elements can be made divisible by 3 using 3 operations:
 
 // Subtract 1 from 1.
-// Add 1 to 2.
+// Add 1 to 2...
 // Subtract 1 from 4.
 // Example 2:
 
