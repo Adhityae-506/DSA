@@ -10,6 +10,8 @@
 // Output: [4,9]
 // Explanation: [9,4] is also accepted.
 
+import java.util.*;
+
 class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
         
